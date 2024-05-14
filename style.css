@@ -1,6 +1,10 @@
 body{
-
+    min-height: 100vh;
+    display: flex;
+    align-items: end;
     background-color: black;
+    margin: 0;
+    padding: 0;
 }
 
 .calculator{
